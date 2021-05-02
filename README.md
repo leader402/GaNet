@@ -1,2 +1,2 @@
-# BisnetTrans
+# GaNet
 code for
